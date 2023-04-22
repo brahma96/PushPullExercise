@@ -13,5 +13,11 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
+        <Grid Grid.Column="1">
+            <StackPanel Margin="0 20">
+                <Button Content="Hello!"/>
+            </StackPanel>
+        </Grid>
+
     </Grid>
 </Window>
