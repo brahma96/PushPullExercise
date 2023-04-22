@@ -26,6 +26,12 @@
 
             </StackPanel>
         </Grid>
+        <Grid Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
 
     </Grid>
 </Window>
