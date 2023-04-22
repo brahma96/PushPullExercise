@@ -19,6 +19,7 @@
                 <Button Content="How are you?" Margin="0 10"/>
                 <Button Content="I'm fine thank you" Margin="0 10"/>
                 <Button Content="Cnotinue Develop branch?" Margin="0 10"/>
+                <Button Content="Display 1" Margin="0 10"/>
 
             </StackPanel>
         </Grid>
